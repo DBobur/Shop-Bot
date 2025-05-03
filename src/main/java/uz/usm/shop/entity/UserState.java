@@ -1,4 +1,6 @@
 package uz.usm.shop.entity;
 
-public class UserState {
+public enum UserState {
+    START,
+    REGISTERED, SHARE_NUMBER
 }

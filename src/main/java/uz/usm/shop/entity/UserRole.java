@@ -1,4 +1,5 @@
 package uz.usm.shop.entity;
 
-public class UserRole {
+public enum UserRole {
+    USER_ROLE, SELLER_ROLE
 }
